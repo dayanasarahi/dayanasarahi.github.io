@@ -52,6 +52,8 @@ La carpeta /evidencias incluye:
 * Ejemplos de respuestas modificadas.
 * Resultados observados.
 
+https://docs.google.com/spreadsheets/d/1rZxUCkm9suvGiVC6GsUJIcnecd_obWpw/edit?usp=sharing&ouid=115402942423008890513&rtpof=true&sd=true
+
 ## Resultados
 
 La simulación de escenarios permitió validar el comportamiento de la interfaz frente a distintas respuestas del sistema y mejorar la cobertura de pruebas.
@@ -65,3 +67,5 @@ Este proyecto fortaleció mis habilidades en:
 * Simulación de escenarios.
 * Identificación de defectos.
 * Análisis del comportamiento de interfaces web.
+
+<img width="2400" height="1458" alt="image" src="https://github.com/user-attachments/assets/a1e67b6c-6125-4bb4-9573-6938c8713e48" />
