@@ -19,7 +19,11 @@ Mi experiencia previa en laboratorios me permitió desarrollar habilidades de an
 Actualmente continúo fortaleciendo mis conocimientos en pruebas manuales, automatización y herramientas como Jira, Postman, Chrome DevTools y GitHub.
 
 # Datos de contacto:
+
 LinkedIn: https://www.linkedin.com/in/dayana-ald%C3%A1s-84a6942bb/
+
 GitHub: https://dayanasarahi.github.io/
+
 Correo profesional: dayi_aldas304@hotmail.com
+
 Celular: 0984980257
