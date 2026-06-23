@@ -65,6 +65,8 @@ La carpeta /evidencias contiene:
 * Respuestas obtenidas.
 * Capturas de pantalla.
 
+https://docs.google.com/document/d/1Do7nhryUrdHvFL8PR0rlvrenpUallzFW/edit?usp=sharing&ouid=115402942423008890513&rtpof=true&sd=true
+
 ## Resultados
 
 Las pruebas permitieron verificar el comportamiento del endpoint frente a entradas válidas e inválidas, asegurando el cumplimiento de los requisitos establecidos.
@@ -78,3 +80,5 @@ Durante este proyecto reforcé conocimientos relacionados con:
 * Técnicas de diseño de pruebas.
 * Boundary Value Analysis.
 * Validación de servicios REST.
+
+<img width="2400" height="1254" alt="image" src="https://github.com/user-attachments/assets/3ce25880-2770-4467-8a02-921ca637686c" />
