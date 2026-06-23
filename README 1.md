@@ -58,7 +58,7 @@ Responsabilidades:
 
 Las evidencias de ejecución se encuentran en la carpeta:
 
-/evidencias
+https://docs.google.com/document/d/1tkkZFqHEQTcvDjC7Xj4FrJVdmo64VkoI/edit?usp=sharing&ouid=115402942423008890513&rtpof=true&sd=true
 
 Incluyen:
 
