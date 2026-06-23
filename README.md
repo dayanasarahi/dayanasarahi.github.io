@@ -27,3 +27,17 @@ GitHub: https://dayanasarahi.github.io/
 Correo profesional: dayi_aldas304@hotmail.com
 
 Celular: 0984980257
+
+# Mis Proyectos QA
+
+## Proyecto 1 - Método de Pago y Agregar Tarjeta
+
+[Ver Proyecto](./proyecto-metodo-pago/README.md)
+
+## Proyecto 2 - API Testing y Boundary Value Analysis
+
+[Ver Proyecto](./proyecto-api-testing/README.md)
+
+## Proyecto 3 - Simulación con Chrome DevTools
+
+[Ver Proyecto](./proyecto-devtools/README.md)
