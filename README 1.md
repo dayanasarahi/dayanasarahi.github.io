@@ -86,3 +86,5 @@ Este proyecto fortaleció mis habilidades en:
 * Análisis de requisitos.
 * Identificación de escenarios críticos.
 * Documentación estructurada de pruebas.
+
+<img width="1200" height="627" alt="Image (11)" src="https://github.com/user-attachments/assets/c97a6585-6825-4963-8679-f58349dc48b5" />
